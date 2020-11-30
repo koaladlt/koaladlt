@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Javascript, React, Redux, Node, Express, Sequelize and PostgreSQL**
 
-- 📫 How to reach me **manuelejdelatorre@gmail.com**
+- 📫 How to reach me: **manuelejdelatorre@gmail.com**
 
 <h3 align="center">Projects</h3>
 
