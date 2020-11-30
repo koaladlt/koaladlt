@@ -6,6 +6,13 @@
 
 - 📫 How to reach me **manuelejdelatorre@gmail.com**
 
+<h3 align="center">Projects</h3>
+
+- <a href="https://github.com/koaladlt/HenryApp"> HenryApp </a>: We created a virtual classroom from scratch for the Henry Bootcamp as a final project. 
+
+- <a href="https://github.com/koaladlt/e-commerce"> HenryStore E-commerce </a>: Here we did an entire E-commerce from scratch, our first big project.  
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manuel-de-la-torre-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/manuel-de-la-torre-dev/" height="30" width="40" /></a>
