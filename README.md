@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React Native and NextJS**
+- 🌱 I’m currently learning **React Native, MongoDB, Mongoose, GraphQL, Apollo and NextJS**
 
 - 💬 Ask me about **Javascript, React, Redux, Node, Express, Sequelize and PostgreSQL**
 
