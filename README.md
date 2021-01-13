@@ -12,7 +12,7 @@
 
 - <a href="https://github.com/koaladlt/e-commerce"> HenryStore E-commerce </a>: Here we did an entire E-commerce from scratch, our first big project. 
 
-- <a href="https://github.com/koaladlt/cmyk-forest"> HenryStore E-commerce </a>: Project made for the CMYK event of the FrontEnd Café's community. 
+- <a href="https://github.com/koaladlt/cmyk-forest"> CMYK Panel </a>: Project made for the CMYK event of the FrontEnd Café's community. 
 
 
 <h3 align="left">Connect with me:</h3>
