@@ -3,6 +3,15 @@
 
 Skills: ReactJS - NextJS - Apollo Client - Redux - PostgreSQL - MongoDB - Express - GraphQL - Apollo Server - Sequelize - Headless CMS 
 
+### Projects
+
+#### [Henry Store:](https://github.com/koaladlt/e-commerce) an e-commerce of official Henry Bootcamp products (Frontend: ReactJS, Redux. Backend: PostgreSQL, Express, Sequelize, NodeJS).
+
+#### [Henry App:](https://github.com/koaladlt/HenryApp) virtual classroom for Henry bootcamp (Frontend: ReactJS, Redux. Backend: PostgreSQL, Express, Sequelize, NodeJS).
+
+#### [CMYK Panel:](https://github.com/koaladlt/cmyk-forest) FrontEnd Cafe's CMYK Event, where students can sign up for it (Frontend: NextJS, Apollo Client. Backend: GraphQL, Apollo Server, PostgreSQL and KeystoneJS)
+
+
 - 🌱 I’m currently learning React Native and Firebase 
 - 📫 How to reach me: manuelejdelatorre@gmail.com 
 
