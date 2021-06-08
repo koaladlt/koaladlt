@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Manuel
 ### A passionate Full Stack developer from Argentina
 
-#### Skills: ReactJS - NextJS - Apollo Client - Redux - PostgreSQL - MongoDB - Express - GraphQL - Apollo Server - Sequelize - Headless CMS 
+#### I don't like to talk about skills, but I really enjoy using React and GraphQL
 
 ### Projects
 
