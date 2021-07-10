@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Manuel
 ### A passionate Full Stack developer from Argentina
 
-#### I don't like to talk about skills, but I really enjoy using React and GraphQL
-
 ### Projects
 
 #### [Henry Store:](https://github.com/koaladlt/e-commerce) an e-commerce of official Henry Bootcamp products (Frontend: ReactJS, Redux. Backend: PostgreSQL, Express, Sequelize, NodeJS).
