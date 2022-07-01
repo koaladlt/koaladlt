@@ -3,9 +3,7 @@
 
 ### Projects
 
-#### [Henry Store:](https://github.com/koaladlt/e-commerce) an e-commerce of official Henry Bootcamp products (Frontend: ReactJS, Redux. Backend: PostgreSQL, Express, Sequelize, NodeJS).
-
-#### [Henry App:](https://github.com/koaladlt/HenryApp) virtual classroom for Henry bootcamp (Frontend: ReactJS, Redux. Backend: PostgreSQL, Express, Sequelize, NodeJS).
+#### [P2P ARS:](https://github.com/koaladlt/P2P-ARS-Extension) A Chrome Extension where you can check the official Binance P2P prices in ARS (Argentine pesos).
 
 #### [CMYK Panel:](https://github.com/koaladlt/cmyk-forest) FrontEnd Cafe's CMYK Event, where students can sign up for it (Frontend: NextJS, Apollo Client. Backend: GraphQL, Apollo Server, PostgreSQL and KeystoneJS)
 
